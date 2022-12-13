@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace WzComparerR2.MapRender.Patches2
+﻿namespace WzComparerR2.MapRender.Patches2
 {
     public class SceneItem
     {
